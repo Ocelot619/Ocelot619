@@ -1,5 +1,5 @@
 ### Hello im Ocelot👋
 
 <p align="center">
-   https://www.boot.dev/u/ocelot619
+   <img src="https://api.boot.dev/v1/users/public/ocelot619/thumbnail">
 </p>
