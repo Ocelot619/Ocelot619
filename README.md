@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hello im Ocelot👋
 
 <!--
-**Ocelot619/Ocelot619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.boot.dev/u/ocelot619
 
 Here are some ideas to get you started:
 
